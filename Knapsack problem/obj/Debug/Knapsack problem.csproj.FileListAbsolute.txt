@@ -1,0 +1,6 @@
+E:\Программирование\Мои программы\Knapsack problem\Knapsack problem\bin\Debug\Knapsack problem.exe.config
+E:\Программирование\Мои программы\Knapsack problem\Knapsack problem\bin\Debug\Knapsack problem.exe
+E:\Программирование\Мои программы\Knapsack problem\Knapsack problem\bin\Debug\Knapsack problem.pdb
+E:\Программирование\Мои программы\Knapsack problem\Knapsack problem\obj\Debug\Knapsack problem.csprojResolveAssemblyReference.cache
+E:\Программирование\Мои программы\Knapsack problem\Knapsack problem\obj\Debug\Knapsack problem.exe
+E:\Программирование\Мои программы\Knapsack problem\Knapsack problem\obj\Debug\Knapsack problem.pdb

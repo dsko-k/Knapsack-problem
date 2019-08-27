@@ -1,0 +1,6 @@
+Предмет	Вес	Цена
+Book	1	6
+Tube	2	5
+Chair	4	15
+Monitor	2	400
+Cup	1	5
